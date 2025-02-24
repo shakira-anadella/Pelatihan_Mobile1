@@ -10,6 +10,8 @@ Setiap fakta memiliki halaman detail yang berisi deskripsi lengkap serta **Q&A i
 - ❓ **Q&A Interaktif**: Pertanyaan dan jawaban tentang fakta tersebut.
 - 🖌 **UI Bersih & Responsif**: Tampilan sederhana dan nyaman.
 
+## Link Youtube : https://youtu.be/Y3TqeMOvjdA
+
 ## 🚀 Cara Menjalankan Aplikasi
 Pastikan **Flutter** sudah terinstal di perangkatmu.  
 Kemudian jalankan perintah berikut:
